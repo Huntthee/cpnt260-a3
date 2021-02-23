@@ -7,7 +7,17 @@
 The purpose of this image gallery is to showcase my knowledge and understanding of flexbox when used to tile cards/images on a website.
 
 All images have been sourced from [Lorem Picsum](https://picsum.photos/).
-All photo credits go to respective photographers/artists.
+
+**Photo Credits**
+- Alejandro Escamilla
+- Jeremy Thomas
+- Dikaseva
+- NASA
+- Christian Joudrey
+- Serio Rola
+- Lukas Schweizer
+- Patrick Tomasso
+- Jay Ruzesky
 
 ---
 [MIT License](license.html)
