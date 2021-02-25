@@ -1,10 +1,12 @@
-# Image Gallery README
+# JavaScript Powered Responsive Image Gallery README
 
-### Project 3 for CPNT260
+### Project 2 for CPNT262
 **This Image Gallery was built and maintained by Michael Allison**
 *&copy; 2021*
 
-The purpose of this image gallery is to showcase my knowledge and understanding of flexbox when used to tile cards/images on a website.
+The purpose of this image gallery is to showcase my knowledge and understanding of JavaScript so far!
+
+The Images are all placed as objects in the images array, with one forEach loop creating and populating all the HTML elements. The forEach loop starting on line 99. 
 
 All images have been sourced from [Lorem Picsum](https://picsum.photos/).
 
