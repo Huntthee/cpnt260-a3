@@ -94,6 +94,13 @@ const images = [
   }
 ];
 
-images.forEach(function(){
-  //some form of code
+let image = '';
+
+images.forEach(function(images){
+  image += `<figure><h2>${images.title}</h2><img src="${images.localURL}" alt="${images.description}" width="${images.width}"><figcaption>${images.description}<br>Photo by: ${images.credit}</figcaption></figure>`;
 });
+
+// console.log(output);
+
+// Output to the webpage
+document.querySelector('.gallery').innerHTML = image;
