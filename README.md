@@ -20,7 +20,7 @@ All images have been sourced from [Lorem Picsum](https://picsum.photos/).
 - Jay Ruzesky
 
 ---
-[MIT License](license.html)
+[MIT License](https://opensource.org/licenses/MIT)
 
 **Links to the GitHub Pages and Repo**
 - [GitHub Pages](https://huntthee.github.io/cpnt260-a3/)
